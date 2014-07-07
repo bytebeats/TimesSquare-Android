@@ -9,3 +9,5 @@ This is an open-source project forked from Github. And the source project is : h
 And as we all know, CalendarView is imported into Android platform since Android 3.0(API 11). 
 So it is inappropriate for Android R&D Enginner to develop enchanting product. So Android Developers takes brainstorms 
 and this is one experimental achievement.  So take it free.
+
+And the Usage and License is here: https://github.com/square/android-times-square
